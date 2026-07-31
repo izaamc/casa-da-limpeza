@@ -6,6 +6,10 @@ Site institucional desenvolvido para a Casa da Limpeza, microempresa local de
 Uberlândia-MG, como parte da Atividade Extensionista II do curso de Análise 
 e Desenvolvimento de Sistemas.
 
+## 🔗 Acesse o site
+
+_Link será adicionado aqui assim que o site for publicado via GitHub Pages._
+
 ## 🎯 Sobre o projeto
 
 O projeto tem como objetivo criar uma presença digital para a Casa da Limpeza, 
@@ -32,6 +36,7 @@ gantt
     title Cronograma - Site Institucional Casa da Limpeza
     dateFormat YYYY-MM-DD
     axisFormat %d/%m
+    excludes weekends
 
     section Planejamento
     Briefing e escopo       :a1, 2026-08-03, 1d
@@ -81,13 +86,13 @@ casa-da-limpeza/
 
 _Em breve — assim que o desenvolvimento avançar._
 
-## 🚀 Como visualizar
+## 🖥️ Rodar localmente (opcional)
 
-**Opção 1 — Download direto**
+**Download direto**
 1. Clique em "Code" → "Download ZIP"
 2. Extraia o arquivo e abra o `index.html` no navegador
 
-**Opção 2 — Via Git**
+**Via Git**
 ```bash
 git clone https://github.com/izaamc/casa-da-limpeza.git
 cd casa-da-limpeza
