@@ -32,6 +32,7 @@ para um pequeno negócio.
 ## 📅 Cronograma
 
 ```mermaid
+%%{init: {'themeVariables': {'excludeBkgColor': '#4b5563'}}}%%
 gantt
     title Cronograma - Site Institucional Casa da Limpeza
     dateFormat YYYY-MM-DD
